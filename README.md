@@ -10,10 +10,6 @@
 5.大功告成😎（其他操作均为自动化部署，无需配置）  
   
 效果演示🎵  
-
-![GitHub Logo](https://github/githubycj/xgmusic/jietu.jpg)
-![GitHub Logo](https://github/githubycj/xgmusic/jietu1.jpg)
-
-<img src="https://github/githubycj/xgmusic/jietu.jpg"><img src="https://github/githubycj/xgmusic/jietu1.jpg">  
+<img src="https://223868.xyz/usr/uploads/2025/07/3677051099.png"><img src="https://223868.xyz/usr/uploads/2025/07/3861580926.png">  
 演示站：music.223868.xyz  
 问题反馈：ycj@223868.xyz  
